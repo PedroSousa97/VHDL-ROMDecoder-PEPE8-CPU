@@ -4,7 +4,7 @@
     <h3 align="center">Project Overview</h3>
 </p>
 
-![Image description](https://github.com/PedroSousa97/VHDL-ROMDecoder-PEPE8-CPU/blob/main/Readme_Images/Pepe-8.JPG)
+![Image description](https://github.com/PedroSousa97/VHDL-ROMDecoder-PEPE8-CPU/tree/main/Readme_Images/Pepe-8.JPG)
 
 
 ## Project Scope
@@ -18,15 +18,15 @@ I also built a C++ Assembler from scratch to automatically generate the machine 
 
 ## Flow Chart and Results
 
-![Image description](https://github.com/PedroSousa97/VHDL-ROMDecoder-PEPE8-CPU/blob/main/Readme_Images/Fluxograma.JPG)
+![Image description](https://github.com/PedroSousa97/VHDL-ROMDecoder-PEPE8-CPU/tree/main/Readme_Images/Fluxograma.JPG)
 
-![Image description](https://github.com/PedroSousa97/VHDL-ROMDecoder-PEPE8-CPU/blob/main/Readme_Images/sim_x9_Positivo.JPG)
+![Image description](https://github.com/PedroSousa97/VHDL-ROMDecoder-PEPE8-CPU/tree/main/Readme_Images/sim_x9_Positivo.JPG)
 
-![Image description](https://github.com/PedroSousa97/VHDL-ROMDecoder-PEPE8-CPU/blob/main/Readme_Images/Sim_x-20_Negativo.JPG)
+![Image description](https://github.com/PedroSousa97/VHDL-ROMDecoder-PEPE8-CPU/tree/main/Readme_Images/Sim_x-20_Negativo.JPG)
 
-![Image description](https://github.com/PedroSousa97/VHDL-ROMDecoder-PEPE8-CPU/blob/main/Readme_Images/Sim_x40.JPG)
+![Image description](https://github.com/PedroSousa97/VHDL-ROMDecoder-PEPE8-CPU/tree/main/Readme_Images/Sim_x40.JPG)
 
-![Image description](https://github.com/PedroSousa97/VHDL-ROMDecoder-PEPE8-CPU/blob/main/Readme_Images/sim_x50.JPG)
+![Image description](https://github.com/PedroSousa97/VHDL-ROMDecoder-PEPE8-CPU/tree/main/Readme_Images/sim_x50.JPG)
 
 ## Contact
 
