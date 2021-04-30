@@ -15,6 +15,7 @@ The main goal was to develop a simple motherboard with the architecture shown in
 
 I also built a C++ Assembler from scratch to automatically generate the machine code that was later inserted in the Instruction Memory. That Assembler can be found in the following Repo: https://github.com/PedroSousa97/C-Assembler
 
+<b>Note:</b> I added the Project Requirements PDF in Portuguese (Has it was handed to me) so you can find some more technical information about the project and processor architecture.
 
 ## Flow Chart and Results
 
